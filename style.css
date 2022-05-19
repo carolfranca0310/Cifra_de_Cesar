@@ -86,6 +86,10 @@ a{
     margin: 0;
 }
 
+.text-extra{
+    color: #d0f12c;
+}
+
 .text-field
 {
     display: flex;
